@@ -1,0 +1,15 @@
+{
+    "name": "flas.majster-pl",
+    "description": "description of flas",
+    "architecture": "all",
+    "title": "flas",
+    "hooks": {
+        "flas": {
+            "apparmor": "flas/flas.apparmor",
+            "desktop": "flas/flas.desktop"
+        }
+    },
+    "version": "0.5",
+    "maintainer": "Szymon Waliczek <majsterrr@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6-qml"
+}

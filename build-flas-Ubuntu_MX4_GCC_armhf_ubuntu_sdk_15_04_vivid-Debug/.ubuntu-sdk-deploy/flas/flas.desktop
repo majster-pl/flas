@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=flas
+Exec=./qtc_device_debughelper.py app "qmlscene %U flas/Main.qml"
+Icon=flas/flas.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

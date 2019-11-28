@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-25 22:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/szymon/Coding/Flas/flas/flas/FavoriteListItemDelegate.qml:25
+msgid "Delete"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/FavoritesPage.qml:8
+msgid "Favorites"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/HeaderDelegate.qml:19
+msgid "Pull down to refrash the list."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/HeaderDelegate.qml:22
+msgid "Local station are based on your IP address."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/HeaderDelegate.qml:44
+msgid "Swipe left on the radio for more options."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/HeaderDelegate.qml:47
+msgid "Local stations are based on your IP address."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/HeaderDelegate.qml:50
+msgid "Pull down to refresh the list."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:285
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:72
+msgid "Top 50"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:285
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:72
+msgid "Local"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:285
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:72
+msgid "Recommended"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:370
+msgid "Loading radio list..."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:370
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:174
+msgid "Searching..."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:379
+msgid "No radio found :("
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:388
+msgid "Type radio name"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Main.qml:457
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:193
+msgid ""
+"No interent connection\n"
+"Please check you internet connection."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:174
+msgid "Type station name."
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/MainPage.qml:174
+msgid "No results found :-("
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPage.qml:79
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPageNew.qml:85
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:57
+msgid "Share"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPage.qml:83
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPageNew.qml:89
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:61
+#, qt-format
+msgid ""
+"I'm listening to %1 via fLAs on my Ubuntu Phone! You can listen online here: "
+"%2"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPage.qml:85
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPageNew.qml:91
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:63
+#, qt-format
+msgid ""
+"Hi! I've found this cool online radio %1 via fLAs application on my Ubuntu "
+"Phone! Check this out yourself here: %2"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPage.qml:274
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPageNew.qml:257
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:212
+msgid "Genres "
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPage.qml:283
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPageNew.qml:265
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:220
+msgid "From"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPageNew.qml:46
+msgid "Now Playing"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:441
+msgid "No recent tracks"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/RadioMainPagePreview.qml:466
+#: /home/szymon/Coding/Flas/flas/flas/Tab2.qml:25
+#, qt-format
+msgid "%1 I love this song! I found it via fLAs on my Ubuntu Phone!"
+msgstr ""
+
+#: /home/szymon/Coding/Flas/flas/flas/Tab2.qml:77
+msgid "No recent songs"
+msgstr ""
